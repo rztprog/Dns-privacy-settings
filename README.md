@@ -6,7 +6,7 @@
 
 The idea came to me because often, the default DNS servers provided by our ISPs are unreliable, can block access to certain sites, and are not optimized for speed. That's why I suggest using two DNS servers simultaneously, along with their descriptions and instructions on how to set them up.
 
-## 🔍 Want to go further?
+## 🔍 Go further ?
 
 If you want to explore further, you can check out my other complementary project, which focuses on [Firefox Privacy Extensions](https://github.com/rztprog/Firefox-privacy-extentions).
 
